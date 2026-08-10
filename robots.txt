@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-r56pv0.shadowdiary.com/sitemap.xml
